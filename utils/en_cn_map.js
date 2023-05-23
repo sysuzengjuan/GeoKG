@@ -1,0 +1,23 @@
+export default {
+  Building: '单体建筑',
+  BuildingComplex: '建筑群',
+  BuildingPart: '建筑构造',
+  has_part: '包括',
+  is_part_of: '属于',
+  address: '地址',
+  built_people: '建筑工匠',
+  built_year: '建筑年代',
+  has_picture: '有图片',
+  current_situation: '现存情况',
+  protect_level: '保护级别',
+  description: '简介',
+  exterior: '建筑风格',
+  has_material: '有建筑材料',
+  has_type: '有建筑类型',
+  layer: '建筑层数',
+  name: '名称',
+  region: '省市区',
+  structure_with_material: '建筑结构（承重材料）',
+  structure_with_structure: '建筑结构（承重结构）',
+  dataValue: '字面量'
+}
